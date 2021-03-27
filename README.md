@@ -42,11 +42,14 @@
 	<a href="https://www.figma.com/" target="_blank" rel=noopener>
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 	</a>
+	<a href="https://boxy-svg.com/" target="_blank" rel=noopener>
+		<img src="https://boxy-svg.com/images/logos/logo-full.svg" alt="boxysvg" width="40" height="40"/>
+	</a>
 	<a href="https://www.photoshop.com/en" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 	</a>
 	<a href="https://developers.google.com/apps-script" target="_blank" rel=noopener>
-		<img src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png" alt="sass" width="40" height="40"/>
+		<img src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png" alt="appscript" width="40" height="40"/>
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel=noopener>
 		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
