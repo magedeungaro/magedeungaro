@@ -31,6 +31,9 @@
 	<a href="https://materializecss.com/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/>
 	</a>
+	<a href="https://www.ruby-lang.org/en/documentation/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
+	</a>
 	<a href="https://getbootstrap.com" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 	</a>
