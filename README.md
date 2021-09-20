@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Maria Eugenia, a.k.a. Mage 🧙‍♂️</h1>
 <h3 align="center">A web developer 💻 and an agronomist 🐄</h3>
 
-- 🌱 I’m currently learning **Ruby, React & TS**
+- 🌱 I’m currently learning **Ruby on Rails and Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://magedbgt.github.io/home.html](https://magedbgt.github.io/home.html)
 
