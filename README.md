@@ -49,7 +49,7 @@
 	</a>
 </p>
 
-<h3 align="left">Frameworks:</h3>
+<h3 align="left">Frameworks and DB's:</h3>
 <p align="left">
 <a href="https://developers.google.com/apps-script" target="_blank" rel=noopener>
 		<img src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png" alt="appscript" width="40" height="40"/>
@@ -59,6 +59,9 @@
 	</a>
 	<a href="https://nuxtjs.org/" target="_blank" rel=noopener>
 		<img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="nuxt" width="40" height="40"/>
+	</a>
+	<a href="https://www.postgresql.org/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="nuxt" width="40" height="40"/>
 	</a>
 </p>
 
