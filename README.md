@@ -44,6 +44,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 	</a>
+	<a href="https://www.typescriptlang.org/" target="_blank">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="javascript" width="40" height="40"/>
+	</a>
 	<a href="https://www.ruby-lang.org/en/documentation/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 	</a>
