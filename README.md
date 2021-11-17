@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **maria.borgato@alumni.usp.br**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/magedeungaro/](https://www.linkedin.com/in/magedeungaro/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/magedeungaro/](https://www.linkedin.com/in/magedeungaro/?locale=en_US)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
