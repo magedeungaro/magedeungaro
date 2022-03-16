@@ -91,7 +91,7 @@
 	</a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">DevOps:</h3>
 <p align="left">
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 </p>
