@@ -54,9 +54,7 @@
 
 <h3 align="left">Frameworks and DB's:</h3>
 <p align="left">
-<a href="https://developers.google.com/apps-script" target="_blank" rel=noopener>
-		<img src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png" alt="appscript" width="40" height="40"/>
-	</a>
+
 	<a href="https://rubyonrails.org/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="ruby_on_rails" width="40" height="40"/>
 	</a>
@@ -90,7 +88,10 @@
 	</a>
 </p>
 
-<h3 align="left">DevOps:</h3>
+<h3 align="left">DevOps and Cloud:</h3>
 <p align="left">
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+	<a href="https://developers.google.com/apps-script" target="_blank" rel=noopener>
+		<img src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png" alt="appscript" width="40" height="40"/>
+	</a>
 </p>
