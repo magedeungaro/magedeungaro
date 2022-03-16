@@ -59,7 +59,7 @@
 	</a>
 	
 	<a href="https://vuejs.org/" target="_blank"> 
-		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png" alt="vue" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="vue" width="40" height="40"/>
   	</a>
 	
 <a href="https://nuxtjs.org/" target="_blank" rel=noopener>
