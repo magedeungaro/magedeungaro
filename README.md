@@ -60,8 +60,7 @@
 	<a href="https://rubyonrails.org/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="ruby_on_rails" width="40" height="40"/>
 	</a>
-	<a href="https://v3.vuejs.org/" target="_blank" rel=noopener>
-		<img src="https://v3.vuejs.org/logo.png" alt="nuxt" width="40" height="40"/>
+	<a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558" alt="vue" width="40" height="40"/> </a>
 	</a>
 	<a href="https://nuxtjs.org/" target="_blank" rel=noopener>
 		<img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="nuxt" width="40" height="40"/>
