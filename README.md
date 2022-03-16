@@ -98,3 +98,11 @@
 		<img src="https://www.gstatic.com/images/branding/product/2x/apps_script_48dp.png" alt="appscript" width="40" height="40"/>
 	</a>
 </p>
+
+<h3 align="left">Other technologies:</h3>
+<p align="left">
+	<a href="https://pt.wikipedia.org/wiki/Progressive_web_app" target="_blank"> <img src="https://user-images.githubusercontent.com/3104648/28351989-7f68389e-6c4b-11e7-9bf2-e9fcd4977e7a.png" alt="pwa" width="40" height="40"/> </a>
+	
+</p>
+
+
