@@ -55,7 +55,9 @@
 <h3 align="left">Frameworks and DB's:</h3>
 <p align="left">
 
-	
+	<a href="https://rubyonrails.org/" target="_blank" rel=noopener>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="ruby_on_rails" width="40" height="40"/>
+	</a>
 	
 </p>
 
