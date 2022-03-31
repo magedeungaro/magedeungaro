@@ -1,9 +1,8 @@
 <h1 align="center">Hello there, I'm Maria Eugenia, a.k.a. Mage 🧙‍♂️</h1>
 <h3 align="center">A web developer 💻 and an agronomist 🐄</h3>
-<img src="https://i.imgur.com/fVDH5bN.gif" width="250" height="250"/>
-<div style="padding-top:41.667%;position:relative;"><iframe src="https://gifer.com/embed/36Ja" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<video src="https://i.gifer.com/36Ja.mp4"></video>
 
-![]()
+![](https://i.gifer.com/36Ja.mp4)
 
 - 🌱 I’m currently learning **Ruby on Rails and Nuxt**
 
