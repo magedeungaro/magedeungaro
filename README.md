@@ -1,9 +1,7 @@
 <h1 align="center">Hello there, I'm Maria Eugenia, a.k.a. Mage 🧙‍♂️</h1>
 <h3 align="center">A web developer 💻 and an agronomist 🐄</h3>
-
-<p align="center">
-	![](https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif)
-</p>
+<img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass"
+![]()
 
 - 🌱 I’m currently learning **Ruby on Rails and Nuxt**
 
