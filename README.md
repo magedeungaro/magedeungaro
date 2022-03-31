@@ -1,6 +1,8 @@
 <h1 align="center">Hello there, I'm Maria Eugenia, a.k.a. Mage 🧙‍♂️</h1>
 <h3 align="center">A web developer 💻 and an agronomist 🐄</h3>
 
+<iframe src="https://giphy.com/embed/njYrp176NQsHS" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/lotr-gandalf-lord-of-the-rings-njYrp176NQsHS">via GIPHY</a></p>
+
 - 🌱 I’m currently learning **Ruby on Rails and Nuxt**
 
 - 👨‍💻 All of my projects are available at [https://magedbgt.github.io/home.html](https://magedbgt.github.io/home.html)
