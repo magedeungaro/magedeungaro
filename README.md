@@ -78,7 +78,7 @@
 		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 	</a>
 	<a href="https://boxy-svg.com/" target="_blank" rel=noopener>
-		<img src="https://boxy-svg.com/images/logos/logo-full.svg" alt="boxysvg" width="40" height="40"/>
+		<img src="https://boxy-svg.com/images/boxy-svg.svg" alt="boxysvg" width="40" height="40"/>
 	</a>
 	<a href="https://www.photoshop.com/en" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
