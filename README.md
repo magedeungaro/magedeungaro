@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **maria.borgato@alumni.usp.br**
 
-- 👨‍💻 Some of my old projects are available at [https://magedbgt.github.io/home.html](https://magedbgt.github.io/home.html)
+- 👨‍💻 Some of my old projects are available at [https://magedbgt.github.io/](https://magedbgt.github.io/)
 
 - 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1DiyXQgrtBMni_IDpMJZ6YqGE7kg0sH8c)
 
