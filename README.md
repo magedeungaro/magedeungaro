@@ -5,7 +5,7 @@
 <img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass">
 </div>
 
-- 🌱 I’m currently learning **RSpec + Capybara, Nuxt and React**
+- 🌱 I’m currently learning **RSpec + Capybara, React, Nodejs + Express and MongoDB**
 
 - 📫 How to reach me **maria.borgato@alumni.usp.br**
 
