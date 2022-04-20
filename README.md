@@ -11,6 +11,8 @@
 
 - 👨‍💻 Some of my old projects are available at [https://magedbgt.github.io/](https://magedbgt.github.io/)
 
+- 🥳 I also participated in this project: [PartyToGo](https://github.com/ThiagoCal/Partytogo)
+
 - 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1DiyXQgrtBMni_IDpMJZ6YqGE7kg0sH8c)
 
 <h3 align="left">Connect with me:</h3>
