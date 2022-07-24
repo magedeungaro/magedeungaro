@@ -11,7 +11,7 @@
 
 - 🥳 I also contributed to these projects: [PartyToGo](https://github.com/ThiagoCal/Partytogo) & [ForgeHub](https://github.com/johngvc/forge_hub)
 
-- 📄 [Download my resume //slightly outdated](https://drive.google.com/uc?export=download&id=1DiyXQgrtBMni_IDpMJZ6YqGE7kg0sH8c)
+- 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1DiyXQgrtBMni_IDpMJZ6YqGE7kg0sH8c) // slightly outdated
 
 <h3 align="left">Connect with me:</h3>
 
