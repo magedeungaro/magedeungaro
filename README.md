@@ -5,15 +5,13 @@
 <img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass">
 </div>
 
-- 🌱 I’m currently learning **RSpec + Capybara, React, Nodejs + Express and MongoDB**
-
 - 📫 How to reach me **maria.borgato@alumni.usp.br**
 
 - 👨‍💻 Some of my old projects are available at [https://magedbgt.github.io/](https://magedbgt.github.io/)
 
 - 🥳 I also contributed to these projects: [PartyToGo](https://github.com/ThiagoCal/Partytogo) & [ForgeHub](https://github.com/johngvc/forge_hub)
 
-- 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1DiyXQgrtBMni_IDpMJZ6YqGE7kg0sH8c)
+- 📄 [Download my resume //slightly outdated](https://drive.google.com/uc?export=download&id=1DiyXQgrtBMni_IDpMJZ6YqGE7kg0sH8c)
 
 <h3 align="left">Connect with me:</h3>
 
