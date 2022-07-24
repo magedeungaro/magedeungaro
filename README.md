@@ -28,9 +28,6 @@
 	<a href="https://www.ruby-lang.org/en/documentation/" target="_blank" rel=noopener>
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
 	</a>
-	<a href="https://docs.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank" rel=noopener>
-		<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="ruby" width="40" height="40"/>
-	</a>
 	
 </p>
 
