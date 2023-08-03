@@ -5,13 +5,21 @@
 <img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass">
 </div>
 
+- 💻 I currently work as ruby developer 💎
+
+- 💖 I really love a good communication and I'm passionate about giving the right feedback and inspiring people
+
 - 📫 Reach me out on [linkedin](https://www.linkedin.com/in/magedeungaro)
+
+- 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1du6WbddW7d30fE6HtmU6nlsPhHX4RZvL)
+
+- I also have experience with javascript, typescript, html, css and I have some knowledge about UX/UI and Figma
+
+- I prefer back-end but I like front-end though
 
 - 👨‍💻 Some of my old projects are available at:
 	- [https://magedbgt.github.io/](https://magedbgt.github.io/) (the beginning)
  	- I also contributed to these projects: [PartyToGo](https://github.com/ThiagoCal/Partytogo) & [ForgeHub](https://github.com/johngvc/forge_hub)
-
-- 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1du6WbddW7d30fE6HtmU6nlsPhHX4RZvL)
 
 <br><br>
 ## ⚙️ &nbsp; Git Analytics
