@@ -1,11 +1,11 @@
 <h1 align="center">Hello there, I'm Maria Eugenia, a.k.a. Mage 🧙‍✨</h1>
-<h3 align="center">A web developer 💻 an agronomist 🌱🐄 and a tutor of 5 cats 🐱🐱🐱🐱🐱</h3>
+<h3 align="center">A developer 💻 an agronomist 🌱🐄 and a tutor of 5 cats 🐱🐱🐱🐱🐱</h3>
 
 <div align="center">
 <img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass">
 </div>
 
-- 💻 I currently work as ruby developer 💎
+- 💎 I currently work as ruby developer and a Computer Science undergrad student
 
 - 💖 I really love a good communication and I'm passionate about giving the right feedback and inspiring people
 
@@ -13,7 +13,7 @@
 
 - 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1du6WbddW7d30fE6HtmU6nlsPhHX4RZvL)
 
-- I also have experience with javascript, typescript, html, css and I have some knowledge about UX/UI and Figma
+- 💻 I also have experience with javascript, typescript, html, css and I have some knowledge about UX/UI and Figma
 
 - I prefer back-end but I like front-end though
 
