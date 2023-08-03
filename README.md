@@ -5,7 +5,7 @@
 <img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass">
 </div>
 
-- 💎 I currently work as ruby developer and a Computer Science undergrad student
+- 💎 I currently work as ruby developer and a I'm a Computer Science undergrad student
 
 - 💖 I really love a good communication and I'm passionate about giving the right feedback and inspiring people
 
@@ -15,7 +15,7 @@
 
 - 💻 I also have experience with javascript, typescript, html, css and I have some knowledge about UX/UI and Figma
 
-- I prefer back-end but I like front-end though
+- I like front-end but I prefer back-end though
 
 - 👨‍💻 Some of my old projects are available at:
 	- [https://magedbgt.github.io/](https://magedbgt.github.io/) (the beginning)
