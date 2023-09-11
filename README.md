@@ -17,6 +17,8 @@
 
 - I like front-end but I prefer back-end though
 
+- 🎒 조금 한국어 말하고 끊임없이 공부합니다
+
 - 👨‍💻 Some of my old projects are available at:
 	- [https://magedbgt.github.io/](https://magedbgt.github.io/) (the beginning)
  	- I also contributed to these projects: [PartyToGo](https://github.com/ThiagoCal/Partytogo) & [ForgeHub](https://github.com/johngvc/forge_hub)
