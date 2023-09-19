@@ -11,7 +11,7 @@
 
 - 📫 Reach me out on [linkedin](https://www.linkedin.com/in/magedeungaro)
 
-- 📄 [Download my resume](https://drive.google.com/uc?export=download&id=1du6WbddW7d30fE6HtmU6nlsPhHX4RZvL)
+- 📄 [See my resume](https://drive.google.com/file/d/1zXQq6CyMJrivSHBL70M_F6pcTVn-ndCc/view?usp=sharing)
 
 - 💻 I also have experience with javascript, typescript, html, css and I have some knowledge about UX/UI and Figma
 
