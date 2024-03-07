@@ -19,6 +19,8 @@
 
 - 🎒 조금 한국어 말하고 끊임없이 공부합니다. 냥집사입니다.
 
+- 🎮 See my games at [Itch.io](https://magedbgt.itch.io/)
+
 - 👨‍💻 Some of my old projects are available at:
 	- [https://magedbgt.github.io/](https://magedbgt.github.io/) (the beginning)
  	- I also contributed to these projects: [PartyToGo](https://github.com/ThiagoCal/Partytogo) & [ForgeHub](https://github.com/johngvc/forge_hub)
