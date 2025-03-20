@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Maria Eugenia, a.k.a. Mage 🧙‍✨</h1>
-<h3 align="center">A developer 💻 an agronomist 🌱🐄 and tutor of 5 cats 🐱🐱🐱🐱🐱</h3>
+<h3 align="center">A developer 💻 an agronomist 🌱🐄 and tutor of 7 cats 🐱🐱🐱🐱🐱🐱🐱</h3>
 
 <div align="center">
 <img src="https://github.com/magedeungaro/magedeungaro.github.io/blob/60888b796677c64a60937ca7af230a73249f73a5/36Ja.gif" alt="Gandalf saying you shall not pass">
